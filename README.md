@@ -4,6 +4,10 @@
 
 ![PITBULL Dashboard](docs/screenshots/dashboard.png)
 
+### RAM Zero — memory hygiene
+
+![RAM Zero](docs/screenshots/ram-zero.png)
+
 
 **Autonomous Benevolent Yielding & Forensic Intelligence System**
 
