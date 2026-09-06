@@ -1,5 +1,10 @@
 # PITBULL 🔱
 
+## Dashboard
+
+![PITBULL Dashboard](docs/screenshots/dashboard.png)
+
+
 **Autonomous Benevolent Yielding & Forensic Intelligence System**
 
 An autonomous digital explorer with personality, reasoning, and self-evolution. It maps hidden, forgotten, and invisible corners of the internet.
