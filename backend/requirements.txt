@@ -1,0 +1,14 @@
+# ABYSS — Backend Dependencies
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+neo4j>=5.14.0
+httpx>=0.26.0
+dnspython>=2.6.0
+python-whois>=0.9.0
+shodan>=1.30.0
+stem>=1.8.0
+pysocks>=1.7.0
+python-multipart>=0.0.6
+PyYAML>=6.0
